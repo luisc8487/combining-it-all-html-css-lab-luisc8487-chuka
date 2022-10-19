@@ -30,4 +30,16 @@ a {
 
 h1 {
     margin: 1em;
+    text-align: center;
+}
+section{
+    margin:auto;
+    width: 60%;
+}
+.background{
+    background-color: #ddd;
+    width: 30em;
+    height: 22em;
+    align-items:center;
+    margin:auto;
 }
