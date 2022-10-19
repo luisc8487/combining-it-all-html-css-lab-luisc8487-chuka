@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ddd;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 1em;
+    list-style-type: none;
+    color: black;
+}
+
+li {
+    justify-content: space-evenly;
+    margin: 1em;
+    list-style-type: none;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    margin: 1em;
+}
